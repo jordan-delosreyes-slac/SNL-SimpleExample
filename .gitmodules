@@ -1,0 +1,3 @@
+[submodule "firmware/submodules/snl"]
+	path = firmware/submodules/snl
+	url = git@github.com:slaclab/snl
